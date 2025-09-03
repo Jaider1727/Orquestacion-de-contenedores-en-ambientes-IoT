@@ -1,0 +1,13 @@
+apiVersion: edge.example.com/v1
+kind: EdgeDeployment
+metadata:
+  name: test-frontend
+  namespace: default
+spec:
+  image: jaidergonza/nextjs-docker:latest
+  replicas: 2
+  maxLatencyMs: 50
+  minBandwidthMbps: 5
+  nodeSelector:
+    edge: "true"
+
