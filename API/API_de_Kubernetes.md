@@ -30,5 +30,14 @@ kubectl get serviceaccount -n default | grep edge
 kubectl get clusterrole | grep edge
 kubectl get clusterrolebinding | grep edge
 
+## Revisión de permisos
+## El agente debe poder parchear nodos y el operador debe poder patchear el status del crd "Yes".
+
+sudo kubectl auth can-i patch nodes --as=system:serviceaccount:default:edge-agent
+sudo kubectl auth can-i patch edgedeployments/status --as=system:serviceaccount:default:edge-operator --namespace=default
+
+## Comprobaciones utiles
+sudo kubectl get sa -n default
+sudo kubectl get clusterrole edge-operator-role -o yaml
 
 ```
