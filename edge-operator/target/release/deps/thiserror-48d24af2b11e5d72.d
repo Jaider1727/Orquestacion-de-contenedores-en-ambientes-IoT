@@ -1,0 +1,10 @@
+C:\Users\Jaider\Documents\Orquestacion-de-contenedores-en-ambientes-IoT\edge-operator\target\release\deps\thiserror-48d24af2b11e5d72.d: C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Jaider\Documents\Orquestacion-de-contenedores-en-ambientes-IoT\edge-operator\target\release\deps\libthiserror-48d24af2b11e5d72.rlib: C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Jaider\Documents\Orquestacion-de-contenedores-en-ambientes-IoT\edge-operator\target\release\deps\libthiserror-48d24af2b11e5d72.rmeta: C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs
+
+C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\lib.rs:
+C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\aserror.rs:
+C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\display.rs:
+C:\Users\Jaider\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.16\src\var.rs:

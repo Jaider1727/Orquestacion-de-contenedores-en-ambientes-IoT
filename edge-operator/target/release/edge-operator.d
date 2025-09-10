@@ -1,0 +1,1 @@
+C:\Users\Jaider\Documents\Orquestacion-de-contenedores-en-ambientes-IoT\edge-operator\target\release\edge-operator.exe: C:\Users\Jaider\Documents\Orquestacion-de-contenedores-en-ambientes-IoT\edge-operator\src\main.rs
